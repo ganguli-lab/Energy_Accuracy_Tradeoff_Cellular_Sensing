@@ -1,1 +1,1 @@
-# Energy_Accuracy_Tradeoff_Cellular_Sensing
+This repository contains supplementary videos for the paper "A universal energy accuracy tradeoff in nonequilibrium cellular sensing".  
