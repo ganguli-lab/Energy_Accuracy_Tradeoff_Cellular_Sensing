@@ -1,7 +1,10 @@
 ## Energy-Accuracy Tradeoffs in Cellular Sensing
 
 This repository contains supplementary videos for the paper "Universal energy accuracy tradeoffs in nonequilibrium cellular sensing".
-https://arxiv.org/abs/2002.10567
+
+ArXiv link:  https://arxiv.org/abs/2002.10567
+
+Physical Review E link:  https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.014403
 
 Movie captions:
 
